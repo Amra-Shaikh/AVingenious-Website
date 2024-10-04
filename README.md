@@ -1,5 +1,4 @@
-Avingenious Technologies Clone
-Project Overview
+
 The Avingenious Technologies Clone project was designed to replicate the official website of Avingenious Technologies, a company known for offering various tech-related services. The objective of this project was to recreate the entire website, focusing on its design, layout, functionality, and responsiveness, making it visually appealing and functionally identical to the original. This project required a combination of web development tools, frameworks, and techniques to ensure the clone operated seamlessly across all devices.
 
 Technologies Used
